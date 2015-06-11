@@ -1,5 +1,7 @@
 #工具提示
 
+[Demo](http://codepen.io/zzuieliyaoli/pen/GJEWBJ)
+
 ###TooltipManager.addToolTip(element, text, para)
 
 ####para
